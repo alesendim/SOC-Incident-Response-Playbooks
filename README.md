@@ -2,7 +2,7 @@
 
 Durante meus estudos em Defesa Cibernética, percebi que saber usar 
 ferramentas é só metade do trabalho num SOC. A outra metade é saber 
-o que fazer com o que você encontra — em que ordem, preservando 
+o que fazer com o que você encontra, em que ordem, preservando 
 evidências, sem piorar a situação no calor do momento.
 
 Esses playbooks são o resultado prático desse aprendizado. Cada um 
